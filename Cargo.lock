@@ -369,19 +369,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "bevy_game"
-version = "0.1.0"
-dependencies = [
- "bevy",
- "bevy_asset_loader",
- "bevy_kira_audio",
- "embed-resource",
- "image",
- "rand",
- "winit",
-]
-
-[[package]]
 name = "bevy_gltf"
 version = "0.8.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1026,6 +1013,19 @@ checksum = "35ed6e9d84f0b51a7f52daf1c7d71dd136fd7a3f41a8462b8cdb8c78d920fad4"
 dependencies = [
  "bytes",
  "memchr",
+]
+
+[[package]]
+name = "combo_jambo"
+version = "0.1.0"
+dependencies = [
+ "bevy",
+ "bevy_asset_loader",
+ "bevy_kira_audio",
+ "embed-resource",
+ "image",
+ "rand",
+ "winit",
 ]
 
 [[package]]

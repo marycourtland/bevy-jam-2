@@ -1,8 +1,8 @@
 [package]
-name = "bevy_game" # ToDo
+name = "combo_jambo"
 version = "0.1.0"
 publish = false
-authors = ["Niklas Eicker <git@nikl.me>"] # ToDo: you are the author ;)
+authors = ["Mary Bush <mary.bush@hey.com>"]
 edition = "2021"
 exclude = ["dist", "build", "assets", "credits"]
 
